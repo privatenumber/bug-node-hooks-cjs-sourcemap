@@ -1,5 +1,6 @@
 {
 	"scripts": {
-		"start": "node --enable-source-maps --import ./register.mjs index.mjs"
+		"start": "node --enable-source-maps --import ./register.mjs index.mjs",
+		"works": "node --enable-source-maps index.mjs"
 	}
 }
