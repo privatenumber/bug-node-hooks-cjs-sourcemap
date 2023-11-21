@@ -1,0 +1,2 @@
+throw console.log("error on L2"),new Error("Should be on L2 but it says its on L1");
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsiZmlsZS5qcyJdLAogICJzb3VyY2VzQ29udGVudCI6IFsiY29uc29sZS5sb2coJ2Vycm9yIG9uIEwyJyk7XG50aHJvdyBuZXcgRXJyb3IoJ1Nob3VsZCBiZSBvbiBMMiBidXQgaXQgc2F5cyBpdHMgb24gTDEnKTsiXSwKICAibWFwcGluZ3MiOiAiQUFBQSxjQUFRLElBQUksYUFBYSxFQUNuQixJQUFJLE1BQU0sdUNBQXVDIiwKICAibmFtZXMiOiBbXQp9Cg==
